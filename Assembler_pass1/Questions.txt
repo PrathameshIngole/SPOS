@@ -1,0 +1,4 @@
+Input - Assembly code i.e. initial_pass1
+Output - DS 
+Data Structures?
+Why to use Assembler? 
